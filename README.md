@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="https://api.boot.dev/v1/users/public/cc0f5a38-4cf5-48a7-bdb1-012e40b0c622/thumbnail">
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/cc0f5a38-4cf5-48a7-bdb1-012e40b0c622/thumbnail" >
 </p>
 
 # Hey there 👋 I'm Gareth
@@ -36,7 +36,6 @@ By night I tinker with:
 - Sci-fi is my comfort food — *Isaac Asimov, William Gibson, Peter Watts, Liu Cixin, Orson Scott Card*  
 - Ex-musician, trained actor, former gym manager, and lifelong tinkerer  
 - Still waiting for my Neovim config to achieve enlightenment  
-- Dream setup: coding in a dark terminal while Foundation plays softly in the background  
 
 ---
 
