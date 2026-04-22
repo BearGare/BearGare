@@ -38,7 +38,7 @@ By day I help enterprise engineering teams ship software faster at [Harness.io](
 ---
 
 > "Any sufficiently advanced bug is indistinguishable from a feature."  
-> — Arthur C. Clarke  
+> — Arthur C. Clarke, probably   
 
 > "Anything is open source if you can read assembly."
 
